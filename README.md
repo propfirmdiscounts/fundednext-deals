@@ -82,4 +82,4 @@ This repository tracks all historical deals for **FundedNext** published on Prop
 
 ---
 
-Last synced: 2026-10-29T02:42:38Z (auto, hourly)
+Last synced: 2026-10-29T06:32:03Z (auto, hourly)
