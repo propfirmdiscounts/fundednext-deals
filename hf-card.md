@@ -36,6 +36,7 @@ As of 2026-10-27, the verified FundedNext discount code is **PFDC** — up to 20
 - Published: 2026-10-27
 - Offer ends: Limited time
 - Offer: 41% off
+- Event: Halloween
 - Scope: Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
@@ -64,7 +65,7 @@ Total deals tracked: **32**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-27 | Halloween 20% off Stellar entry fees from $29.99 | 41% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) |
+| 2026-10-27 | Halloween 20% off Stellar entry fees from $29.99 | 41% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) |
 | 2026-10-12 | October Promotion: Stellar Accounts Starting at $29.99 | 32% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) |
 | 2026-10-01 | October Pricing From $29.99 On Stellar Models | Only $29.99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) |
 | 2026-09-15 | 20% Discount for New and 15% for Existing 50K Stellar Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) |
@@ -77,25 +78,25 @@ Total deals tracked: **32**
 | 2026-07-09 | 25% Off Evaluation Upfront Fee | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-25-off-stellar-plans-argentinian-independence/) |
 | 2026-06-11 | 25% Off Upfront Fee For Stellar Accounts Up to $50K | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-25-off-stellar-50k/) |
 | 2026-06-03 | 2 Minimum Trading Days Deal on Stellar Challenges | 2 Minimum Trading Days | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-2-minimum-trading-days-deal/) |
-| 2026-05-25 | Eid Al-Adha Offer: 25% Off New and 15% Off Existing Stellar Challenge Pricing | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-eid-al-adha-stellar-discount/) |
+| 2026-05-25 | Eid Al-Adha Offer: 25% Off New and 15% Off Existing Stellar Challenge Pricing | 25% off | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-eid-al-adha-stellar-discount/) |
 | 2026-05-05 | Buy 1 Get 1 Free Evaluation Account Offer For CFD And Futures Plans | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-buy-1-get-1-free-promotion/) |
 | 2026-04-27 | 20% Reduction On Upfront Challenge Fees | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-evaluations/) |
 | 2026-03-16 | Buy 1 Get 1 Free Anniversary Evaluation Promotion | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-buy-1-get-1-free-anniversary-bogo-offer/) |
-| 2026-02-23 | 10% Discount on 50k-200k Stellar Challenges for Ramadan 2026 | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-10-percent-discount-stellar-50k-200k-ramadan-2026/) |
-| 2026-02-23 | 15% Discount on 2k-25k Stellar Evaluations for Ramadan 2026 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-15-percent-discount-stellar-2k-25k-ramadan-2026/) |
+| 2026-02-23 | 10% Discount on 50k-200k Stellar Challenges for Ramadan 2026 | 10% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-10-percent-discount-stellar-50k-200k-ramadan-2026/) |
+| 2026-02-23 | 15% Discount on 2k-25k Stellar Evaluations for Ramadan 2026 | 15% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-15-percent-discount-stellar-2k-25k-ramadan-2026/) |
 | 2026-01-27 | 20% Off New and 12% Off Existing User Accounts Flash Sale | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-flash-sale-20-percent-off-new-users/) |
 
 ### 2025 (12 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-21 | Christmas Offer: Buy 1 Get 1 Free on All Stellar Accounts | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-christmas-bogo-stellar/) |
-| 2025-11-25 | Black Friday Existing User Deal: 15% OFF + 150% Reward | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-existing-user-15-off-150-reward/) |
-| 2025-11-25 | Black Friday New User Deal: 25% OFF + 250% Reward | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-new-user-25-off-250-reward/) |
+| 2025-12-21 | Christmas Offer: Buy 1 Get 1 Free on All Stellar Accounts | Buy 1 Get 1 | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-christmas-bogo-stellar/) |
+| 2025-11-25 | Black Friday Existing User Deal: 15% OFF + 150% Reward | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-existing-user-15-off-150-reward/) |
+| 2025-11-25 | Black Friday New User Deal: 25% OFF + 250% Reward | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-new-user-25-off-250-reward/) |
 | 2025-11-18 | Flash Sale: 100% Reward Share Flash Offer | Get 100% profit split off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-100-percent-reward-share-flash-sale/) |
-| 2025-10-30 | 15% OFF for Existing Users + No Consistency on Legacy | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-15-off-existing-users/) |
-| 2025-10-30 | 25% OFF for New Users + No Consistency on Legacy | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/) |
-| 2025-10-29 | Halloween BOGO Treat: Buy One Stellar Plan, Get One Free (72 Hours, Ends Oct 31, 8:59 PM GMT+3) | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-bogo-72h-ends-oct-31-2025/) |
+| 2025-10-30 | 15% OFF for Existing Users + No Consistency on Legacy | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-15-off-existing-users/) |
+| 2025-10-30 | 25% OFF for New Users + No Consistency on Legacy | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/) |
+| 2025-10-29 | Halloween BOGO Treat: Buy One Stellar Plan, Get One Free (72 Hours, Ends Oct 31, 8:59 PM GMT+3) | Buy 1 Get 1 | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-bogo-72h-ends-oct-31-2025/) |
 | 2025-10-24 | 48-Hour Combo: Buy Stellar 1-Step, Get 20% OFF Stellar 2-Step | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-48-hour-combo-buy-stellar-1-step-get-20-off-stellar-2-step/) |
 | 2025-10-17 | 15% OFF Futures Rapid & 25% OFF Futures Legacy (First Purchase) | 15% and 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-15-off-futures-rapid-25-off-futures-legacy-first-purchase/) |
 | 2025-09-23 | 5% Off + 150% Approval Reward (Argentina, 48 Hours) | 5% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-rosh-hashanah-offer-5-off-150-approval-reward-argentina-48-hours/) |
