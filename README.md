@@ -1,31 +1,43 @@
-# FundedNext - Discount Codes & Deal History
+# FundedNext Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-27, the verified FundedNext discount code is **PFDC** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundednext/
+- Code: PFDC
+- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-27
+- Trustpilot: 4.5/5 (82520 reviews)
+- Activate: https://propfirmdiscount.com/go/fundednext
+- Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** PFDC (works any time; live rate always on prop firm page)
+## Current FundedNext deal: Halloween 20% off Stellar entry fees from $29.99
 
-Use discount code **PFDC** to get **20% off** on FundedNext challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all FundedNext evaluation accounts.
+- Published: 2026-10-27
+- Offer ends: Limited time
+- Offer: 41% off
+- Scope: Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
+
+## FundedNext discount code FAQ
+
+**What is the FundedNext discount code?**
+
+PFDC. It is verified by PropFirmDiscount.com and takes up to 20% off FundedNext challenges and accounts.
+
+**Does the FundedNext discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current FundedNext deal?**
+
+**Halloween 20% off Stellar entry fees from $29.99** — published 2026-10-27. Offer ends: Limited time. The offer is 41% off.
 
 ---
 
-## Latest Deal
-
-### FundedNext - Halloween 20% off Stellar entry fees from $29.99
-
-**Published:** 2026-10-27  
-**Offer ends:** Limited time  
-**Discount:** 41% off  
-**Scope:** Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **32**
 
@@ -73,19 +85,20 @@ Total deals tracked: **32**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **FundedNext** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **FundedNext** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundednext/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fundednext/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
