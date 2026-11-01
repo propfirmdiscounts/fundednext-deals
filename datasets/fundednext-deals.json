@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 13081,
+    "title": "Flat 30% off all Stellar Instant accounts in November",
+    "offer_type": "coupon",
+    "discount_value": "30%",
+    "scope": [
+      "Stellar Instant Accounts In 2K, 5K, 10K And 20K Sizes"
+    ],
+    "date_published": "2026-11-01",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-01",
+    "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/",
+    "prop_firm": "FundedNext",
+    "prop_firm_slug": "fundednext",
+    "standing_code": "PFDC",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundednext",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundednext/"
+  },
+  {
+    "deal_id": 13080,
+    "title": "Up to 41% off selected Stellar Challenge accounts",
+    "offer_type": "coupon",
+    "discount_value": "41%",
+    "scope": [
+      "Selected Stellar Challenge Accounts: Stellar 2-Step 6K, Stellar 1-Step 6K, Stellar Lite 5K"
+    ],
+    "date_published": "2026-11-01",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-01",
+    "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/",
+    "prop_firm": "FundedNext",
+    "prop_firm_slug": "fundednext",
+    "standing_code": "PFDC",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundednext",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundednext/"
+  },
+  {
     "deal_id": 13052,
     "title": "Halloween 20% off Stellar entry fees from $29.99",
     "offer_type": "coupon",
