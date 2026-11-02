@@ -68,7 +68,7 @@ Total deals tracked: **34**
 | 2026-11-01 | Up to 41% off selected Stellar Challenge accounts | 41% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/) |
 | 2026-10-27 | Halloween 20% off Stellar entry fees from $29.99 | 41% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) |
 | 2026-10-12 | October Promotion: Stellar Accounts Starting at $29.99 | 32% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) |
-| 2026-10-01 | October Pricing From $29.99 On Stellar Models | Only $29.99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) |
+| 2026-10-01 | October Pricing From $29.99 On Stellar Models | Only $29.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) |
 | 2026-09-15 | 20% Discount for New and 15% for Existing 50K Stellar Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) |
 | 2026-09-07 | 30% Off Stellar Instant Accounts (2K to 20K) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-30-off-stellar-instant/) |
 | 2026-09-01 | September Promo: 6K Stellar 2-Step For $29.99 And 1-Step For $39.99 | Only $29.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-september-stellar-6k-promo/) |
