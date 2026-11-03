@@ -1,4 +1,4 @@
-# FundedNext Discount Code
+# FundedNext - Discount Codes & Deal History
 
 As of 2026-11-01, the verified FundedNext discount code is PFDC — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
