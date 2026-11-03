@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: fundednext
   FIRM_SLUG: fundednext
   DEALSTORE_ID: 92
   FIRM_NAME: FundedNext
