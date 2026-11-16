@@ -1,10 +1,10 @@
-# FundedNext - Discount Codes & Deal History
+# FundedNext Discount Code & Deal History
 
 As of November 2026, the verified FundedNext discount code is PFDC — 20% OFF, which can be applied on the checkout page anytime. The newest is "Flat 30% off all Stellar Instant accounts in November".
 
 - Code: PFDC
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-01
 - Trustpilot: 4.5/5 (83644 reviews)
 - GitHub repository: [FundedNext Deals Repository](https://github.com/propfirmdiscounts/fundednext-deals)
@@ -13,7 +13,7 @@ As of November 2026, the verified FundedNext discount code is PFDC — 20% OFF, 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [FundedNext API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current FundedNext deal: Flat 30% off all Stellar Instant accounts in November
+## Latest FundedNext deal: Flat 30% off all Stellar Instant accounts in November
 
 - Published: 2026-11-01
 - Offer ends: Limited time
@@ -22,7 +22,7 @@ As of November 2026, the verified FundedNext discount code is PFDC — 20% OFF, 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [FundedNext Deal Page](https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/)
 
-## FundedNext discount code FAQ
+## FundedNext Discount Code & Deals FAQ
 
 **What is the FundedNext discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## FundedNext Deal History
 
 Total deals tracked: **34**
 
@@ -88,7 +88,7 @@ Total deals tracked: **34**
 
 ---
 
-## About this repository
+## About the FundedNext Deals Dataset
 
 This repository mirrors every deal **FundedNext** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -96,7 +96,7 @@ This repository mirrors every deal **FundedNext** has published on PropFirmDisco
 - Prop firm profile: [FundedNext Profile](https://propfirmdiscount.com/prop-firm/fundednext/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/fundednext-deals.json`
+## FundedNext Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -128,13 +128,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
