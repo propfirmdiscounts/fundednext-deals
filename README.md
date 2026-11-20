@@ -6,7 +6,7 @@ As of November 2026, the verified FundedNext discount code is PFDC — 20% OFF, 
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-01
-- Trustpilot: [4.5/5 (83987 reviews)](https://www.trustpilot.com/review/fundednext.com)
+- Trustpilot: [4.5/5 (84272 reviews)](https://www.trustpilot.com/review/fundednext.com)
 - GitHub repository: [FundedNext Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fundednext-deals)
 - Activate: [Activate FundedNext Discount Code](https://propfirmdiscount.com/go/fundednext)
 - Firm page: [FundedNext Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundednext/)
